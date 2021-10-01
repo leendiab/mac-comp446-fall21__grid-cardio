@@ -54,7 +54,7 @@ body {
   row-gap: 1rem;
   column-gap: 1rem;
   grid-template-columns: 1fr 2fr 1fr 2fr 1fr 2fr 1fr 2fr 1fr 2fr;
-  grid-template-rows: repeat(50px);
+  grid-template-rows: repeat(10, 50px);
 }
 
 /* With Item 1, start at col 3 and go until 5 */
